@@ -1,2 +1,2 @@
 # Wireshark
-My notes on Packet Captuer with Wireshark.
+My notes on Packet Capture with Wireshark.
